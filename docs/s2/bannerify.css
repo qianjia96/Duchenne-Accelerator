@@ -1,0 +1,417 @@
+@charset "UTF-8";
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+#banner1_659827543 {
+	background-color: #ffffff;
+	border: 0;
+	box-sizing: border-box;
+	cursor: default;
+	display: block;
+	height: 1024px;
+	overflow: hidden;
+	position: relative;
+	width: 1440px;
+	z-index: 1;
+}
+
+#banner1_659827543 div {
+	position: absolute;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+#banner1_659827543 img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+#b_1_banner1_659827543 {
+	top: 115px;
+	left: 208px;
+	z-index: 1;
+}
+
+#img_1_banner1_659827543 {
+	width: 1024px;
+	height: 56px;
+}
+
+#img_1_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 100ms 4900ms ease 1 both;
+	animation: fade-in 100ms 4900ms ease 1 both;
+}
+
+#b_2_banner1_659827543 {
+	top: 200px;
+	left: 238px;
+	z-index: 2;
+}
+
+#img_2_banner1_659827543 {
+	width: 965px;
+	height: 34px;
+}
+
+#img_2_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 100ms 4900ms ease 1 both;
+	animation: fade-in 100ms 4900ms ease 1 both;
+}
+
+#b_3_banner1_659827543 {
+	top: 253px;
+	left: 238px;
+	z-index: 3;
+}
+
+#img_3_banner1_659827543 {
+	width: 76px;
+	height: 30px;
+}
+
+#img_3_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 100ms 4900ms ease 1 both;
+	animation: fade-in 100ms 4900ms ease 1 both;
+}
+
+#b_4_banner1_659827543 {
+	top: 253px;
+	left: 334px;
+	z-index: 4;
+}
+
+#img_4_banner1_659827543 {
+	width: 118px;
+	height: 30px;
+}
+
+#img_4_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 100ms 4900ms ease 1 both;
+	animation: fade-in 100ms 4900ms ease 1 both;
+}
+
+#b_5_banner1_659827543 {
+	top: 252px;
+	left: 593px;
+	z-index: 5;
+}
+
+#img_5_banner1_659827543 {
+	width: 114px;
+	height: 30px;
+}
+
+#img_5_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 200ms 4800ms ease 1 both;
+	animation: fade-in 200ms 4800ms ease 1 both;
+}
+
+#b_6_banner1_659827543 {
+	top: 252px;
+	left: 472px;
+	z-index: 6;
+}
+
+#img_6_banner1_659827543 {
+	width: 101px;
+	height: 30px;
+}
+
+#img_6_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 4500ms ease 1 both;
+	animation: fade-in 500ms 4500ms ease 1 both;
+}
+
+#b_7_banner1_659827543 {
+	top: 10px;
+	left: 560px;
+	z-index: 7;
+}
+
+#img_7_banner1_659827543 {
+	width: 359px;
+	height: 272px;
+}
+
+#img_7_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 4200ms ease 1 both;
+	animation: fade-in 500ms 4200ms ease 1 both;
+}
+
+#b_8_banner1_659827543 {
+	top: 245px;
+	left: 919px;
+	z-index: 8;
+}
+
+#img_8_banner1_659827543 {
+	width: 284px;
+	height: 38px;
+}
+
+#img_8_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3900ms ease 1 both;
+	animation: fade-in 500ms 3900ms ease 1 both;
+}
+
+#b_9_banner1_659827543 {
+	top: 480.5px;
+	left: 177px;
+	z-index: 9;
+}
+
+#img_9_banner1_659827543 {
+	width: 279px;
+	height: 22px;
+}
+
+#img_9_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3600ms ease 1 both;
+	animation: fade-in 500ms 3600ms ease 1 both;
+}
+
+#b_10_banner1_659827543 {
+	top: 360px;
+	left: 353px;
+	z-index: 10;
+}
+
+#img_10_banner1_659827543 {
+	width: 145px;
+	height: 63px;
+}
+
+#img_10_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3300ms ease 1 both;
+	animation: fade-in 500ms 3300ms ease 1 both;
+}
+
+#b_11_banner1_659827543 {
+	top: 360px;
+	left: 942px;
+	z-index: 11;
+}
+
+#img_11_banner1_659827543 {
+	width: 86px;
+	height: 63px;
+}
+
+#img_11_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3000ms ease 1 both;
+	animation: fade-in 500ms 3000ms ease 1 both;
+}
+
+#b_12_banner1_659827543 {
+	top: 360px;
+	left: 670px;
+	z-index: 12;
+}
+
+#img_12_banner1_659827543 {
+	width: 100px;
+	height: 63px;
+}
+
+#img_12_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2700ms ease 1 both;
+	animation: fade-in 500ms 2700ms ease 1 both;
+}
+
+#b_13_banner1_659827543 {
+	top: 507px;
+	left: 172px;
+	z-index: 13;
+}
+
+#img_13_banner1_659827543 {
+	width: 1095px;
+	height: 434px;
+}
+
+#img_13_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2400ms ease 1 both;
+	animation: fade-in 500ms 2400ms ease 1 both;
+}
+
+#b_14_banner1_659827543 {
+	top: 539px;
+	left: 1252px;
+	z-index: 14;
+}
+
+#img_14_banner1_659827543 {
+	width: 14px;
+	height: 19px;
+}
+
+#img_14_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2100ms ease 1 both;
+	animation: fade-in 500ms 2100ms ease 1 both;
+}
+
+#b_15_banner1_659827543 {
+	top: 474px;
+	left: 1152px;
+	z-index: 15;
+}
+
+#img_15_banner1_659827543 {
+	width: 107px;
+	height: 29px;
+}
+
+#img_15_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1800ms ease 1 both;
+	animation: fade-in 500ms 1800ms ease 1 both;
+}
+
+#b_16_banner1_659827543 {
+	top: 915px;
+	left: 177px;
+	z-index: 16;
+}
+
+#img_16_banner1_659827543 {
+	width: 1068px;
+	height: 21px;
+}
+
+#img_16_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1500ms ease 1 both;
+	animation: fade-in 500ms 1500ms ease 1 both;
+}
+
+#b_17_banner1_659827543 {
+	top: 543px;
+	left: 176px;
+	z-index: 17;
+}
+
+#img_17_banner1_659827543 {
+	width: 1069px;
+	height: 372px;
+}
+
+#img_17_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1200ms ease 1 both;
+	animation: fade-in 500ms 1200ms ease 1 both;
+}
+
+#b_18_banner1_659827543 {
+	top: 542px;
+	left: 1243.5px;
+	z-index: 18;
+}
+
+#img_18_banner1_659827543 {
+	width: 1px;
+	height: 373px;
+}
+
+#img_18_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 900ms ease 1 both;
+	animation: fade-in 500ms 900ms ease 1 both;
+}
+
+#b_19_banner1_659827543 {
+	top: 543px;
+	left: 175.5px;
+	z-index: 19;
+}
+
+#img_19_banner1_659827543 {
+	width: 1px;
+	height: 373px;
+}
+
+#img_19_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 600ms ease 1 both;
+	animation: fade-in 500ms 600ms ease 1 both;
+}
+
+#b_20_banner1_659827543 {
+	top: 0px;
+	left: 0px;
+	z-index: 20;
+}
+
+#img_20_banner1_659827543 {
+	width: 1440px;
+	height: 62px;
+}
+
+#img_20_banner1_659827543.bnfy-enter {
+	-webkit-animation: fade-in 500ms 300ms ease 1 both;
+	animation: fade-in 500ms 300ms ease 1 both;
+}
+
+@media (print), (prefers-reduced-motion: reduce) {
+	.banner__element {
+		-webkit-animation-duration: 1ms !important;
+		animation-duration: 1ms !important;
+		-webkit-transition-duration: 1ms !important;
+		transition-duration: 1ms !important;
+		-webkit-animation-iteration-count: 1 !important;
+		animation-iteration-count: 1 !important;
+	}
+}
+@-webkit-keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@-webkit-keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+@keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+
+@-webkit-keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
+
+@keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
